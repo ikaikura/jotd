@@ -5,3 +5,6 @@ metadata:
 containers:
   knock-knock:
     image: .
+resources:
+  jotd-dns:
+    type: dns
